@@ -3,4 +3,4 @@ project:
     package:
         name: Ground Wire Engage
         namespace: gwengage
-        api_version: 36.0
+        api_version: 24.0

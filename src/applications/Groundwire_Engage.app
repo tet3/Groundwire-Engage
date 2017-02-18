@@ -2,7 +2,6 @@
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
     <defaultLandingTab>About_GW_Engage</defaultLandingTab>
     <label>Groundwire Engage</label>
-    <logo>Groundwire_Engage/Groundwire_Engage_Logo.png</logo>
     <tab>standard-Contact</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-Campaign</tab>

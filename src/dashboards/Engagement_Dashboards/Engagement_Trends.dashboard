@@ -171,7 +171,6 @@
             <useReportChart>true</useReportChart>
         </components>
     </rightSection>
-    <runningUser>matthew+gwe@groundwire.org</runningUser>
     <textColor>#000000</textColor>
     <title>Engagement Trends</title>
     <titleColor>#000000</titleColor>
