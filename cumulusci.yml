@@ -1,0 +1,6 @@
+project:
+    name: GroundwireEngage
+    package:
+        name: Ground Wire Engage
+        namespace: gwengage
+        api_version: 36.0
